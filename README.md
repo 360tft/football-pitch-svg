@@ -41,3 +41,6 @@ It draws full practices from a plain-English description.
 
 MIT. See [LICENSE](LICENSE). Pitch markings follow common 105 x 68 m
 proportions. No third-party artwork, fonts or Laws wording is included.
+
+---
+Made by [360TFT](https://360tft.com). Build practices and sessions with [FootballGPT](https://footballgpt.co?utm_source=github&utm_medium=open_source&utm_campaign=football-pitch-svg). Test your knowledge of the Laws with [RefereeGPT](https://refereegpt.co/quiz?utm_source=github&utm_medium=open_source&utm_campaign=football-pitch-svg).
