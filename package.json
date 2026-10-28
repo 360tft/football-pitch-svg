@@ -1,0 +1,13 @@
+{
+  "name": "football-pitch-svg",
+  "version": "0.1.0",
+  "description": "Tiny dependency-free functions that draw football pitches as SVG strings.",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.ts",
+    "examples": "node examples/build.ts"
+  },
+  "engines": { "node": ">=22.6" }
+}
